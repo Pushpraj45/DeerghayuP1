@@ -28,6 +28,7 @@ document.querySelector('#info-btn').onclick = () =>{
 document.querySelector('#close-contact-info').onclick = () =>{
   contactInfo.classList.remove('active');
 }
+// connecting menu button
 document.querySelector('#menu-btn').onclick = () =>{
     navbar.classList.add('active');
 }
