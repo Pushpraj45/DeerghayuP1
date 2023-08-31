@@ -20,7 +20,7 @@ html {
   scroll-padding-top: 5rem;
 }
 
-/*  how our scrollbar will look  */
+/*  how our scrollbar look  */
 html::-webkit-scrollbar {
   width: 1rem;
 }
